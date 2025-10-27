@@ -1,0 +1,5 @@
+{
+  "name": "React Typing Tutor",
+  "description": "An application to help you improve your typing speed and accuracy, inspired by Typing Master. Features progressive lessons, an on-screen keyboard with finger guides, and real-time performance metrics like WPM and accuracy.",
+  "requestFramePermissions": []
+}
